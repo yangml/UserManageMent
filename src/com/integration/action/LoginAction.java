@@ -9,6 +9,7 @@ public class LoginAction extends ActionSupport {
 	String username;
 	String password;
 	String usertype;
+	
 	public String getUsertype() {
 		return usertype;
 	}
